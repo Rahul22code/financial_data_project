@@ -1,0 +1,13 @@
+# Google Cloud credentials
+*.json
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Temporary/OS files
+~$*
+.DS_Store
+Thumbs.db
